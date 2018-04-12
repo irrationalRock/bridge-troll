@@ -109,6 +109,7 @@ npm run prettier
 npm run lint
     check that all flies pass eslint and prettier
 
+<<<<<<< HEAD
 npm run debug
     build index.html and start a dev web server, enabling enhanced debugging
 
@@ -124,3 +125,6 @@ npm run karma-chrome
 npm run karma-edge
     run unit tests with Edge (must be installed locally)
 ```
+=======
+derp
+>>>>>>> aae2564a583d4e21477eae927cd965a6aaf57d62
